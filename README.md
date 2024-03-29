@@ -3,7 +3,7 @@
 This project provides a basic implementation of how an Operating System works to carry out various tasks. The algorithm helps in understanding various functionalities of the Operating System, including:
 
 1. Interpretation of low-level language by the Operating System.
-2. How the Operating System inserts data into memory from local files for execution.
+2. How the Operating System inserts data into memory for execution.
 3. The role of the Operating System in error handling.
 4. The role of the Operating System in memory management and page fault handling.
 
