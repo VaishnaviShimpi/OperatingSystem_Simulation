@@ -32,4 +32,4 @@ To implement this project, follow these steps:
 3. For Phase 2, use the input file "Phase2InputFile.txt". Run the Java file, and view the output in the "Phase2OutputFile.txt" file.
 4. To understand the input file structure, refer to the "inputFileData.txt" file.
 
-Thank you for visiting my repository!🚀 Happy Coding :)
+Thank you for visiting my repository!🚀
